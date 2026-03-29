@@ -1,10 +1,11 @@
-# Dither
+# dither
 
-A zero-dependency Python CLI tool.
+Image dithering algorithms (Floyd-Steinberg, ordered, random).
 
 ## Usage
 
 ```bash
-python dither.py test
-python dither.py demo
+python3 dither.py test
 ```
+
+Zero dependencies. Python 3.8+.
